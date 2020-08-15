@@ -1,0 +1,15 @@
+conda create --name tf_gpu tensorflow-gpu
+conda activate tf_gpu
+pip install tensorflow==2.2
+conda install pandas
+conda install lxml
+pip install opencv-python-headless
+conda install -c anaconda imagesize
+conda install -c anaconda seaborn
+conda install numpy
+conda install -c conda-forge matplotlib
+conda install imgaug
+pip install imagecorruptions
+pip install tensorflow-addons
+conda install -c conda-forge easydict 
+conda install -c anaconda nb_conda

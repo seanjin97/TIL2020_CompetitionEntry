@@ -1,0 +1,12 @@
+[
+{
+ "frame_id":1, 
+ "filename":"transformed.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"end", "relative_coordinates":{"center_x":0.110119, "center_y":0.057209, "width":0.085813, "height":0.113757}, "confidence":0.998797}, 
+  {"class_id":0, "name":"obstacle", "relative_coordinates":{"center_x":0.070833, "center_y":0.506250, "width":0.119444, "height":0.225000}, "confidence":0.998774}, 
+  {"class_id":0, "name":"obstacle", "relative_coordinates":{"center_x":0.481944, "center_y":0.525521, "width":0.141667, "height":0.232292}, "confidence":0.999240}, 
+  {"class_id":1, "name":"start", "relative_coordinates":{"center_x":0.886037, "center_y":0.922123, "width":0.098462, "height":0.131283}, "confidence":0.995577}
+  ] 
+}
+]

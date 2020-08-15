@@ -1,0 +1,6 @@
+1. Kaggle CV data
+2. Open Image Dataset v6 (OIDv6): extracted using https://github.com/DmitryRyumin/OIDv6
+3. False examples for the model to learn: https://diode-dataset.org/
+4. Image augments, we generated 1 augment for each image 
+5. All labels generated using https://github.com/tzutalin/labelImg
+6. Model of choice: YOLOv4 https://github.com/AlexeyAB/darknet
